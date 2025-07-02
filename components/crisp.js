@@ -157,7 +157,7 @@ export function CrispBanner() {
         <div style={bannerAnimation}>
           <a
             style={buttonStyles}
-            href="mailto:itsvgin@gmail.com"
+            href="mailto:nikhilchoudhary2508@gmail.com"
             className="text-xs sm:text-base"
           >
             Want a crazy good website? Let&apos;s Discuss!
