@@ -3,7 +3,7 @@ import React from "react";
 export default function Credits() {
   const cc = [
     {
-      avatar: "https://avatars.githubusercontent.com/u/81325730?v=4",
+      avatar: "https://avatars.githubusercontent.com/u/212664255?v=4",
       name: "Nikhil Sundriya",
       creditfor: "Visit Count Pro",
     },
@@ -13,13 +13,13 @@ export default function Credits() {
       creditfor: "GitHub ReadMe Stats",
     },
     {
-      avatar: "https://avatars.githubusercontent.com/u/20955511?v=4",
-      name: "Jonah Lawrence",
+      avatar: "https://avatars.githubusercontent.com/u/218193228?s=400&u=8a1af46894b0b8cafe95f1f086fe138b2c3add0b&v=4",
+      name: "Kanika Mehta",
       creditfor: "GitHub ReadMe Streaks",
     },
     {
-      avatar: "https://avatars.githubusercontent.com/u/81325730?v=4",
-      name: "Vishwa Gaurav",
+      avatar: "https://avatars.githubusercontent.com/u/212664255?v=4",
+      name: "Nikhil Sundriya",
       creditfor: "Random Memes",
     },
     {
