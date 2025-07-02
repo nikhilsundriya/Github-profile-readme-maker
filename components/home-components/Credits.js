@@ -23,8 +23,8 @@ export default function Credits() {
       creditfor: "Random Memes",
     },
     {
-      avatar: "https://avatars.githubusercontent.com/u/6661165?v=4",
-      name: "Ryota Sakamoto",
+      avatar: "https://avatars.githubusercontent.com/u/218193228?s=400&u=8a1af46894b0b8cafe95f1f086fe138b2c3add0b&v=4",
+      name: "Kanika Mehta",
       creditfor: "GitHub Profile Trophies",
     },
     {
